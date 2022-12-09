@@ -37,7 +37,7 @@ body, .wrapper, .content{
   }
   .alarm{
     position: relative;
-    left: -150px;
+    left: -40%;
     top: -20px;
   }
   .wrapper img{
